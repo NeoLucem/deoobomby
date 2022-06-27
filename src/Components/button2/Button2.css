@@ -1,0 +1,15 @@
+.Btn2{
+    color: #64ffda;
+    background-color: transparent;
+    border: 1px solid #64ffda;
+    border-radius: 4px;
+    font-size: 14px;
+    font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;
+    line-height: 1;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.25s;
+    padding: 18px 50px;
+    margin: 50px 0px 0px 0px;
+    width: max-content;
+}

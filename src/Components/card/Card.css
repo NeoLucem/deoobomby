@@ -1,0 +1,18 @@
+.card-body{
+    background-color: #171120;
+}
+.card-title{
+    color: #64ffda;  
+}
+.card-text{
+    color: #ffff;
+}
+.card-text2{
+    color: #ffff;
+}
+
+@media only screen and (max-width: 600px) {
+    .card{
+        width: 350px;
+    }
+}

@@ -1,0 +1,20 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+}
+.footer-description{
+    color: #5F5E5E;
+    text-align: center;
+}
+.footer-links{
+    display: flex;
+    justify-content: center;
+}
+.footer-links li{
+    list-style: none;
+    padding: 10px 7px;
+}
+.footer-copy{
+    color: #5F5E5E;
+    text-align: center;
+}

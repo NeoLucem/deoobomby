@@ -1,0 +1,17 @@
+.skills_grid{
+    margin: 12px 0px;
+    color: #5f5e5e;
+}
+.txt{
+    padding: 0px;
+    color: #5f5e5e;
+}
+.col{
+    color: #64ffda;
+}
+@media only screen and (min-width: 992px) {
+    .txt{
+        padding: 0px 0px 0px 50px;
+        color: #5f5e5e;
+    }
+}

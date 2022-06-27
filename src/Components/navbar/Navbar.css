@@ -1,0 +1,37 @@
+
+.offcanvas-body{
+    text-align: center;
+    background-color: #1E2029;
+    color: #d6d6d6;
+}
+.navbar{
+    background-color: #1E2029;
+    color: #64ffda;  
+}
+.offcanvas-header{
+    background-color: #1E2029;
+    color: #64ffda;
+}
+.navbar-brand{
+    color: #64ffda;
+}
+.offcanvas-body a{
+
+    color: #d6d6d6;
+}
+@media only screen and (min-width: 992px) {
+    #icon{
+        display: none;
+    }
+    .navbar-nav{
+        display: flex;
+        align-items: center;
+        font-size: 13px;
+    }
+    .navbar-nav a{
+        margin: 0px 10px;
+    }
+    .navbar-nav a:hover{
+        color: #64ffda;
+    }
+}
